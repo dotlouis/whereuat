@@ -1,4 +1,4 @@
-angular.module('whereuat', ['ionic','ngOpenFB', 'whereuat.controllers'])
+angular.module('whereuat', ['ionic','ngOpenFB','ngCordova','whereuat.controllers'])
 
 .config(['$stateProvider','$urlRouterProvider',function($stateProvider, $urlRouterProvider){
 

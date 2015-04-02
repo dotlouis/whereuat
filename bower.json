@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "ionic": "~0.9.27",
-    "ngOpenFB": "*"
+    "ngOpenFB": "*",
+    "ngCordova": "~0.1.14-alpha"
   }
 }
